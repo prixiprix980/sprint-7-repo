@@ -6,7 +6,7 @@ import streamlit as st
 st.header("Exploración de datos de vehículos 🚗")
 
 # Leer datos
-car_data = pd.read_csv('/Users/flavioramirezherreea/Desktop/sprint-7-repo/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 # Casilla de verificación para histograma
 show_hist = st.checkbox('Mostrar histograma (odometer)')
