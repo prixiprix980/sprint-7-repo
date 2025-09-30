@@ -13,11 +13,11 @@ La aplicación ofrece las siguientes características:
 
 * Visualización interactiva:
 
-** Histograma para analizar la distribución de los datos.
+  * Histograma para analizar la distribución de los datos.
 
-** Diagrama de dispersión para explorar la relación entre dos variables.
+  * Diagrama de dispersión para explorar la relación entre dos variables.
 
-** Opciones de selección mediante casillas de verificación (st.checkbox) para mostrar los gráficos deseados.
+  * Opciones de selección mediante casillas de verificación (st.checkbox) para mostrar los gráficos deseados.
 
 Objetivo
 
